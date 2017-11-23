@@ -1,0 +1,25 @@
+Digital Brand Index (DEBI 3.0) helps individual users share their own content with their own web sites. Specifically, when a user posts a photo on their own web site (by any means) as well as Instagram.
+
+DEBI only operates on public accounts. It does not support private accounts.
+
+DEBI also has a publish feature that integrates with users' web sites in the other direction. Users can post on their Instagram  that they like an Instagram photo, or have a comment on it, and they can then use DEBI to post that comment or like that photo inside Instagram.
+
+
+- Permissionpublic_content
+
+by obtaining the data public content, will be used as a data analysis of the user both in volume and quality of the data.
+
+- follower_list
+by getting a follower list, users will be able to analyze who and how the behavior of its followers.
+
+- likes
+
+by obtaining data likes, DEBI app users can determine which form of posts and what kind of likes and give the best engagement.
+
+- relationships
+
+by obtaining data relationships, DEBI application users can make the basis for developing potential followers
+
+- comments
+
+by getting data comments, DEBI app users can measure the interaction level of the followers. So it can improve the quality of each post.
